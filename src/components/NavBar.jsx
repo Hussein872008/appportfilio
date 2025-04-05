@@ -19,7 +19,7 @@ const NavBar = () => {
             <Nav.Link as={HashLink} smooth to="/#process">Process</Nav.Link>
             <Nav.Link as={HashLink} smooth to="/#process">Services</Nav.Link>
             <Nav.Link as={HashLink} smooth to="/#contact">Contact Us</Nav.Link>
-            <Nav.Link as={HashLink} smooth to="/project">Projects</Nav.Link>
+            <Nav.Link as={HashLink} smooth to="/projects">Projects</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

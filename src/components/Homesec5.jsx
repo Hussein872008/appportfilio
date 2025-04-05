@@ -8,7 +8,6 @@ const Homesec5 = () => {
         <div className="why-webflow">
             <h1 className="title">Why Webflow.</h1>
             <div className="why-flex-container">
-                {/* REASON 1 */}
                 <div className="why-item">
                     <h2 className="reason-title">REASON 1</h2>
                     <h3 className="reason-heading">Next-Level Storytelling</h3>
@@ -16,7 +15,6 @@ const Homesec5 = () => {
                     <p>Unleash the best visuals and experiences that modern web design has to offer. Webflow turns your wildest of ideas into strategic customer-experiences.</p>
                 </div>
 
-                {/* REASON 2 */}
                 <div className="why-item">
                     <h2 className="reason-title">REASON 2</h2>
                     <h3 className="reason-heading">Unbelievable Performance</h3>
@@ -24,7 +22,6 @@ const Homesec5 = () => {
                     <p>Hosted on an ultra-fast global CDN, Webflow goes full steam ahead with load speed, uptime, asset optimization, and SEO. All without ever needing to install a patch or upload a server configuration.</p>
                 </div>
 
-                {/* REASON 3 */}
                 <div className="why-item">
                     <h2 className="reason-title">REASON 3</h2>
                     <h3 className="reason-heading">Developer-Free Tweaks</h3>

@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
 import React from 'react';
 import { Container, Row, Col, Button } from 'react-bootstrap';
 import image1 from "../assets/images/1.svg";
